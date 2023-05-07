@@ -18,3 +18,6 @@
 
 ### Below was an example of chose different kind of map pattern
 ![5](https://user-images.githubusercontent.com/118713625/236683179-e4f58e91-76d7-44c7-81f2-34982772711a.PNG)
+
+### Below was an example of using geojson data of Poland country. User observed different layers and found the name of the state by clicked the state.
+![6](https://user-images.githubusercontent.com/118713625/236683715-503aaf11-0eae-4b60-9bdc-f1005c016a6f.PNG)
